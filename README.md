@@ -113,7 +113,7 @@ Below are examples of my data visualization work:
 
 - 📧 Email: your_email@gmail.com  
 - 🔗 LinkedIn: [Auni_IsmailLinkedIn](https://www.linkedin.com/in/auni-ismail-a3a408297/)  
-- 💻 GitHub: https://github.com/yourusername  
+- 💻 GitHub: https://github.com/aunigith014  
 
 ---
 
