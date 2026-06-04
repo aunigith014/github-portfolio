@@ -12,7 +12,6 @@ Final-year Mathematics student specializing in Big Data Analytics at UiTM.
 - Power BI
 - Excel
 - Data Analysis
-- Machine Learning
 
 ## Projects
 
