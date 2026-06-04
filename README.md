@@ -105,7 +105,7 @@ Below are examples of my data visualization work:
 ## 📄 Resume
 
 📌 Download my resume here:  
-👉 [Auni_Ismail_Resume](resume/Auni_Ismail_Resume.pdf)
+👉 [Auni_Ismail_Resume](https://github.com/auniisma-boop/github-portfolio/blob/63657a96552002816edfad337c5200f96bacbf38/Auni%20Ismail%20-%20Resume.pdf)
 
 ---
 
