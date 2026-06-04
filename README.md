@@ -33,11 +33,10 @@ Developed an interactive dashboard for sales performance analysis.
 Repository:
 [View Project](link)
 
-## Certifications
-- Power BI
-- Python
-- SQL
+## Certificate
+- Certificate Google Data Analytics | Coursera [View Certificate](link)
+- Certificate Google Advanced Data Analytics | Coursera (Currently)
 
 ## Contact
-Email: your_email@gmail.com
-LinkedIn: your LinkedIn URL
+Email: auniisma@gmail.com
+LinkedIn: [your LinkedIn URL](https://www.linkedin.com/in/auni-ismail-a3a408297/)
