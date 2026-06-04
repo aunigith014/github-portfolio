@@ -30,26 +30,6 @@ I am currently seeking an internship opportunity to apply my technical skills in
 
 ---
 
-## 🛠️ Technical Skills
-
-| Software / Tool | Level |
-|-----------------|---------|
-| Microsoft Excel | Proficient |
-| Python | Proficient |
-| Google Colab | Proficient |
-| RapidMiner | Proficient |
-| Weka | Proficient |
-| SPSS | Proficient |
-| MATLAB | Proficient |
-| Maple | Proficient |
-| Power BI | Intermediate |
-| Tableau | Intermediate |
-| R | Intermediate |
-| SQL | Basic |
-| GitHub | Basic |
-
----
-
 ## 📊 Projects
 
 ### 1. Customer Churn Analysis
