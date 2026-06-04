@@ -27,6 +27,7 @@ I am currently seeking an internship opportunity to apply my technical skills in
 | Weka | Proficient |
 | SPSS | Proficient |
 | MATLAB | Proficient |
+| Maple | Proficient |
 | Power BI | Intermediate |
 | Tableau | Intermediate |
 | R | Intermediate |
