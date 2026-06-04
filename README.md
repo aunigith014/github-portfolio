@@ -34,7 +34,7 @@ Repository:
 [View Project](link)
 
 ## Certificate
-- Certificate Google Data Analytics | Coursera [View Certificate](link)
+- Certificate Google Data Analytics | Coursera [View Certificate](GDA CERTIFICATE.pdf)
 - Certificate Google Advanced Data Analytics | Coursera (Currently)
 
 ## Contact
