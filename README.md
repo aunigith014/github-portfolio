@@ -96,7 +96,7 @@ Below are examples of my data visualization work:
 
 ## 📜 Certifications
 
-- Certificate Google Data Analytics | Coursera [GDA CERTIFICATE.pdf](https://github.com/auniisma-boop/github-portfolio/blob/3c015a6f09c8590c6aefbbc4852de8a4394c81ff/GDA%20CERTIFICATE.pdf)
+- [Certificate Google Data Analytics | Coursera](https://github.com/auniisma-boop/github-portfolio/blob/3c015a6f09c8590c6aefbbc4852de8a4394c81ff/GDA%20CERTIFICATE.pdf)
 
 - Certificate Google Advanced Data Analytics | Coursera (Currently)
 
