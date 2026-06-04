@@ -117,14 +117,4 @@ Below are examples of my data visualization work:
 
 ---
 
-## ⭐ GitHub Portfolio Highlights
-
-✔ Real-world data analytics projects  
-✔ Python data analysis & visualization  
-✔ Power BI dashboard development  
-✔ Clean documentation for each project  
-✔ Continuous learning in data science field  
-
----
-
 ⭐ *Thank you for visiting my portfolio! I am open to internship opportunities in Data Analytics, Business Intelligence, and Data Science roles.*
