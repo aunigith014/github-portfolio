@@ -39,4 +39,4 @@ Repository:
 
 ## Contact
 Email: auniisma@gmail.com
-LinkedIn: [your LinkedIn URL](https://www.linkedin.com/in/auni-ismail-a3a408297/)
+LinkedIn: [my LinkedIn URL](https://www.linkedin.com/in/auni-ismail-a3a408297/)
