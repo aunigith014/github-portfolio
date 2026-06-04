@@ -5,6 +5,20 @@ Specialization: Big Data Analytics
 Universiti Teknologi MARA (UiTM)
 
 ---
+## 📄 Resume
+
+📌 Download my resume here:  
+👉 [Auni_Ismail_Resume](https://github.com/auniisma-boop/github-portfolio/blob/63657a96552002816edfad337c5200f96bacbf38/Auni%20Ismail%20-%20Resume.pdf)
+
+---
+
+## 📫 Contact Information
+
+- 📧 Email: your_email@gmail.com  
+- 🔗 LinkedIn: [Auni_IsmailLinkedIn](https://www.linkedin.com/in/auni-ismail-a3a408297/)  
+- 💻 GitHub: https://github.com/aunigith014
+
+- ---
 
 ## 👋 About Me
 
@@ -101,21 +115,6 @@ Below are examples of my data visualization work:
 - [Certificate Google Data Analytics | Coursera](https://github.com/auniisma-boop/github-portfolio/blob/3c015a6f09c8590c6aefbbc4852de8a4394c81ff/GDA%20CERTIFICATE.pdf)
 
 - Certificate Google Advanced Data Analytics | Coursera (Currently)
-
----
-
-## 📄 Resume
-
-📌 Download my resume here:  
-👉 [Auni_Ismail_Resume](https://github.com/auniisma-boop/github-portfolio/blob/63657a96552002816edfad337c5200f96bacbf38/Auni%20Ismail%20-%20Resume.pdf)
-
----
-
-## 📫 Contact Information
-
-- 📧 Email: your_email@gmail.com  
-- 🔗 LinkedIn: [Auni_IsmailLinkedIn](https://www.linkedin.com/in/auni-ismail-a3a408297/)  
-- 💻 GitHub: https://github.com/aunigith014  
 
 ---
 
