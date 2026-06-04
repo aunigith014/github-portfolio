@@ -18,19 +18,20 @@ I am currently seeking an internship opportunity to apply my technical skills in
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-
-**Data Analytics & Visualization**
-- Power BI
-- Microsoft Excel
-- Exploratory Data Analysis (EDA)
-
-**Tools & Platforms**
-- Jupyter Notebook
-- Google Colab
-- GitHub
+| Software / Tool | Level |
+|-----------------|---------|
+| Microsoft Excel | Proficient |
+| Python | Proficient |
+| Google Colab | Proficient |
+| RapidMiner | Proficient |
+| Weka | Proficient |
+| SPSS | Proficient |
+| MATLAB | Proficient |
+| Power BI | Intermediate |
+| Tableau | Intermediate |
+| R | Intermediate |
+| SQL | Basic |
+| GitHub | Basic |
 
 ---
 
